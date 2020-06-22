@@ -10,3 +10,4 @@ def list_dwarves(array)
     puts a + index 
 
 end
+end
