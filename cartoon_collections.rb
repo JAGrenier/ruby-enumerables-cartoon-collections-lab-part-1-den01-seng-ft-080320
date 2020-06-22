@@ -8,6 +8,7 @@ def list_dwarves(array)
     puts "#{index}{character}"
   array.each_with_index{
   }
-  hash
+ 
 
 end
+end 
