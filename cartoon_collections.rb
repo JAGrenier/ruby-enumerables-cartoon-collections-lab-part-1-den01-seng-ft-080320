@@ -6,6 +6,6 @@
 def list_dwarves(array)
   index=12
   array.each_with_index do |character, index|
-    puts "#{object} at index #{index}"
+    puts "#{character} at index #{index}"
 end
 end
