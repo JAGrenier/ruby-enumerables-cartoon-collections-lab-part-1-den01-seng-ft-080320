@@ -6,7 +6,10 @@
 def list_dwarves(array)
   # Use `each_with_index` to enumerate over the provided array
   # Print a numbered list of each element
+hash =Hash.new 
   array.each_with_index{ |a|
-    puts a + index}
+    puts a hash[item]=index
+  }
+  hash 
 
 end
