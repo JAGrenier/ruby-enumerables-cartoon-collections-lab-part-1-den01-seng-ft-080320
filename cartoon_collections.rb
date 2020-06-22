@@ -3,8 +3,8 @@ def greet_characters(array)
   #
   # Print a custom greeting for each element
 #dwarves = ["Dopey", "Grumpy", "Bashful"]
-arrays.each do |character|
-p "#Hello {character}!"
+arrays.each {|character|
+puts "Hello #{}{character}!"
   end
 end
 
